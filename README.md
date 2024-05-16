@@ -71,7 +71,3 @@ This repository provides a comprehensive guide to performing web application pen
 ## Contribution
 
 Contributions are welcome! If you have additional tools or resources that could benefit this guide, feel free to open a pull request.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
